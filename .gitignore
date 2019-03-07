@@ -1,0 +1,13 @@
+NGLAll/
+.git_temp/
+-TaskList_2-
+.DS_Store
+NLGAll/
+allPhoto/
+face_for_us.一维.py
+model_weights.h5.epochs
+plot.py
+shibie.py
+tags
+tempUseless/
+test1.sh
